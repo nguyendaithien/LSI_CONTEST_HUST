@@ -20,6 +20,7 @@ Features
 ![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/4449794c-fcf1-4d9f-a38c-faa6a5a5e50d)
 
 <span style="font-size: 50px;">**Using line buffer to store data**</span>
+
 ![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/392fabdd-ad5f-4f08-96ab-401a7fe047be)
 
 <span style="font-size: 50px;">**Horizontal convolution is employed to reduce hardware**</span>

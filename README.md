@@ -1,1 +1,13 @@
 # LSI_CONTEST_HUST
+Image Encryption and Decryption using CNN
+Overview
+This project implements image encryption and decryption using Convolutional Neural Networks (CNN) with specific features for efficient processing. The encryption and decryption operations leverage line buffers for temporary data storage during convolution calculations, and employ sequential convolution operations to reduce hardware resource utilization. The system is designed to handle images of varying sizes and is optimized for FPGA deployment with the See3Cam camera.
+
+Features
+Line Buffer Utilization: The implementation uses a line buffer to efficiently read and store temporary data during the convolution process. This helps optimize memory usage and processing efficiency.
+
+Sequential Convolution Operation: The CNN model employs sequential convolution operations to perform image encryption and decryption. This approach is chosen to minimize hardware resource requirements while maintaining computational accuracy.
+
+Versatile Image Size Handling: The system is designed to handle images of different sizes as input. It dynamically adjusts to the dimensions of the provided image, ensuring flexibility and compatibility with various input sources.
+
+FPGA Deployment with See3Cam Camera: The implementation is tailored for deployment on an FPGA (Field-Programmable Gate Array) and is compatible with the See3Cam camera. This enables real-time image processing and encryption directly from the camera input.

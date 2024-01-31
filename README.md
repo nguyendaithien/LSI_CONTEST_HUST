@@ -36,8 +36,6 @@ This project implements image encryption and decryption using Convolutional Neur
 
 <span style="font-size: 50px;">**The model is capable of computation with any arbitrary input image size**</span>
 
-<span style="font-size: 50px;">**The model is capable of computation with any arbitrary input image size**</span>
-![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/3db6dbf2-5cba-4894-81c4-bb99716c0fd6)
 
 
 

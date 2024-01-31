@@ -7,7 +7,7 @@ This project implements image encryption and decryption using Convolutional Neur
 
 Features
 
--Line Buffer Utilization: The implementation uses a line buffer to efficiently read and store temporary data during the convolution process. This helps optimize memory usage and processing efficiency.
+-Using Line Buffer : The implementation uses a line buffer to efficiently read and store temporary data during the convolution process. This helps optimize memory usage and processing efficiency.
 
 -Sequential Convolution Operation: The CNN model employs sequential convolution operations to perform image encryption and decryption. This approach is chosen to minimize hardware resource requirements while maintaining computational accuracy.
 

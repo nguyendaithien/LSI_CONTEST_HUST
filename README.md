@@ -34,7 +34,10 @@ This project implements image encryption and decryption using Convolutional Neur
 <span style="font-size: 50px;">**Horizontal convolution is employed to reduce hardware**</span>
 ![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/21e3aa71-d812-4ca8-afa3-e88fbc72e0a5)
 
-<span style="font-size: 50px;">**The model is capable of computation with any arbitrary input image size**</span>
+<span style="font-size: 50px;">**Deploying hardware on FPGA: ZCU104 board and See3Cam**</span>
+
+![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/8f8561eb-cad7-4325-920f-5efbfeb57c35)
+
 
 
 

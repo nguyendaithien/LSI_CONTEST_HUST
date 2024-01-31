@@ -1,6 +1,5 @@
  
-**<span style="font-size: 18px;">STRUCTURE:</span>**
-
+<span style="font-size: 50px;">**STRUCTURE:**</span>
 
         model.cpp: Top module of CNN model
         CNN.h : Deploying convolutional, pooling, upsampling functions, and RELU

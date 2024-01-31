@@ -17,3 +17,6 @@ Features
 
 
 ![ofdm orthogonalspacedsubcarriers](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/5f32661e-6db1-4a6c-a8d1-26a7a04df96e)
+
+<span style="font-size: 30px;">**CNN model**</span>
+![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/4449794c-fcf1-4d9f-a38c-faa6a5a5e50d)

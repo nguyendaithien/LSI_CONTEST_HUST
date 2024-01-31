@@ -1,6 +1,5 @@
  
-<span style="font-size: 50px;">**STRUCTURE:**</span>
-
+STRUCTURE:
         model.cpp: Top module of CNN model
         CNN.h : Deploying convolutional, pooling, upsampling functions, and RELU
         bias.h : File containing bias data for convolution

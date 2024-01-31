@@ -16,7 +16,16 @@ Features
 -FPGA Deployment with See3Cam Camera: The implementation is tailored for deployment on an FPGA (Field-Programmable Gate Array) and is compatible with the See3Cam camera. This enables real-time image processing and encryption directly from the camera input.
 
 
-![ofdm orthogonalspacedsubcarriers](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/5f32661e-6db1-4a6c-a8d1-26a7a04df96e)
-
-<span style="font-size: 30px;">**CNN model**</span>
+<span style="font-size: 50px;">**CNN model**</span>
 ![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/4449794c-fcf1-4d9f-a38c-faa6a5a5e50d)
+
+<span style="font-size: 50px;">**Using line buffer to store data**</span>
+![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/392fabdd-ad5f-4f08-96ab-401a7fe047be)
+
+<span style="font-size: 50px;">**Horizontal convolution is employed to reduce hardware**</span>
+![image](https://github.com/nguyendaithien/LSI_CONTEST_HUST/assets/91738843/21e3aa71-d812-4ca8-afa3-e88fbc72e0a5)
+
+
+
+
+

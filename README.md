@@ -14,4 +14,5 @@ Features
 -Versatile Image Size Handling: The system is designed to handle images of different sizes as input. It dynamically adjusts to the dimensions of the provided image, ensuring flexibility and compatibility with various input sources.
 
 -FPGA Deployment with See3Cam Camera: The implementation is tailored for deployment on an FPGA (Field-Programmable Gate Array) and is compatible with the See3Cam camera. This enables real-time image processing and encryption directly from the camera input.
-! (https://drive.google.com/file/d/1xMGm-qbdDXrt4iqbTqqIhy4VkM8mBm5W/view?usp=drive_link)
+
+![](https://drive.google.com/file/d/1xMGm-qbdDXrt4iqbTqqIhy4VkM8mBm5W/view?usp=drive_link)

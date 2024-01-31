@@ -1,1 +1,8 @@
+STRUCTURE : 
+        model.cpp: Top module of CNN model
+        CNN.h : Deploying convolutional, pooling, upsampling functions, and RELU
+        bias.h : File containing bias data for convolution
+        kernel.h: File containing kernel data of CNN model
+        weight.h : FIle containing image input
+        run_hls.tcl : File TCL to run Vitis HLS
 

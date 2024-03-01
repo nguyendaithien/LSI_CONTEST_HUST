@@ -5,10 +5,12 @@ Design Counter module, Synthesys and Layout
 
 Description: Design an up-down counter non-synchronized.
      -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.
+     
      -Layout Design: Design layout for the module by arranging the cells derived from the library in an
 optimized manner, ensuring compliance with performance and area requirements. 
-     -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.}} 
-     -Used Tools: Iverilog,YOSYS, DLayout.}} 
+
+     -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.
+     -Used Tools: Iverilog,YOSYS, DLayout.
 
 <span style="font-size: 120 px;">**Features**</span>
 

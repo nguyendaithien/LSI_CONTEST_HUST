@@ -3,7 +3,12 @@ Image Encryption and Decryption using CNN
 
 <span style="font-size: 120 px;">**Overview:**</span>
 
-This project implements image encryption and decryption using Convolutional Neural Networks (CNN) with specific features for efficient processing. The encryption and decryption operations leverage line buffers for temporary data storage during convolution calculations, and employ sequential convolution operations to reduce hardware resource utilization. The system is designed to handle images of varying sizes and is optimized for FPGA deployment with the See3Cam camera.
+Description: Design an up-down counter non-synchronized.
+     -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.
+     -Layout Design: Design layout for the module by arranging the cells derived from the library in an
+optimized manner, ensuring compliance with performance and area requirements. 
+     -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.}} 
+     -Used Tools: Iverilog,YOSYS, DLayout.}} 
 
 <span style="font-size: 120 px;">**Features**</span>
 

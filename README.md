@@ -3,14 +3,12 @@ Design Counter module, Synthesys and Layout
 
 <span style="font-size: 120 px;">**Overview:**</span>
 
-Description: Design an up-down counter non-synchronized.
-     -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.
-     
-     -Layout Design: Design layout for the module by arranging the cells derived from the library in an
-optimized manner, ensuring compliance with performance and area requirements. 
-
-     -Synthesis with YOSYS: Use YOSYS to synthesize the Verilog source code with a standard cell library.
-     -Used Tools: Iverilog,YOSYS, DLayout.
+Description: Optimizing hardware for a CNN model used in image compression and decompression, implementing
+the algorithm in C/C++, synthesizing RTL code, and deploying on an FPGA.Details: Autoencoder module utilizing
+a CNN model for compressing and decompressing grayscale images of any size. The model has been trained on
+Colab and comprises 7 convolution layers, 3 pooling layers, and 3 upsampling layers.
+• Solution: The algorithm employs a line buffer to efficiently read and store temporary data during the convolution
+process. It uses a data channel called ”stream” to connect between two processes in the CNN.
 
 <span style="font-size: 120 px;">**Features**</span>
 

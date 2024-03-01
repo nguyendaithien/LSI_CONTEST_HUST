@@ -7,8 +7,10 @@ Description: Optimizing hardware for a CNN model used in image compression and d
 the algorithm in C/C++, synthesizing RTL code, and deploying on an FPGA.Details: Autoencoder module utilizing
 a CNN model for compressing and decompressing grayscale images of any size. The model has been trained on
 Colab and comprises 7 convolution layers, 3 pooling layers, and 3 upsampling layers.
-• Solution: The algorithm employs a line buffer to efficiently read and store temporary data during the convolution
-process. It uses a data channel called ”stream” to connect between two processes in the CNN.
+
+ Solution: The algorithm employs a line buffer to efficiently read and store temporary data during the convolution
+process.
+
 
 <span style="font-size: 120 px;">**Features**</span>
 
